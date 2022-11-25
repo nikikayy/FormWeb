@@ -1,0 +1,28 @@
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'impact', 'consolas';
+}
+video{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: 400px;
+}
+.videoWrapper{
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+}
+.videoWrapper iframe{
+        display: block;
+        margin: 0 auto;
+        width: 500px;
+        height: 400px;
+}
+body{
+    background-image: url(./../images/astro.jpeg);
+    background-size:contain;
+    background-attachment: scroll
+}

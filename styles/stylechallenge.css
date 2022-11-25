@@ -1,0 +1,31 @@
+.awal {
+	font-family: arial;
+}
+textarea {
+	padding: 0vw 30vw 0vw 0vw;
+}
+input {
+	background-color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	background-image:url(../images/b.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.welkam {
+	font-size: 2vw;
+	font-weight: bold;
+	font-family:montserrat;
+}
+.huruf{
+color: black;
+font-family: arial;
+font-style: italic;
+}
+.button :hover {
+	background-color: aqua;
+}
+  
